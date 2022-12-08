@@ -1,0 +1,15 @@
+C:\Users\cabal\source\repos\TipTheNumber\TipTheNumber\bin\Debug\net6.0\TipTheNumber.exe
+C:\Users\cabal\source\repos\TipTheNumber\TipTheNumber\bin\Debug\net6.0\TipTheNumber.deps.json
+C:\Users\cabal\source\repos\TipTheNumber\TipTheNumber\bin\Debug\net6.0\TipTheNumber.runtimeconfig.json
+C:\Users\cabal\source\repos\TipTheNumber\TipTheNumber\bin\Debug\net6.0\TipTheNumber.dll
+C:\Users\cabal\source\repos\TipTheNumber\TipTheNumber\bin\Debug\net6.0\TipTheNumber.pdb
+C:\Users\cabal\source\repos\TipTheNumber\TipTheNumber\obj\Debug\net6.0\TipTheNumber.csproj.AssemblyReference.cache
+C:\Users\cabal\source\repos\TipTheNumber\TipTheNumber\obj\Debug\net6.0\TipTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cabal\source\repos\TipTheNumber\TipTheNumber\obj\Debug\net6.0\TipTheNumber.AssemblyInfoInputs.cache
+C:\Users\cabal\source\repos\TipTheNumber\TipTheNumber\obj\Debug\net6.0\TipTheNumber.AssemblyInfo.cs
+C:\Users\cabal\source\repos\TipTheNumber\TipTheNumber\obj\Debug\net6.0\TipTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\cabal\source\repos\TipTheNumber\TipTheNumber\obj\Debug\net6.0\TipTheNumber.dll
+C:\Users\cabal\source\repos\TipTheNumber\TipTheNumber\obj\Debug\net6.0\refint\TipTheNumber.dll
+C:\Users\cabal\source\repos\TipTheNumber\TipTheNumber\obj\Debug\net6.0\TipTheNumber.pdb
+C:\Users\cabal\source\repos\TipTheNumber\TipTheNumber\obj\Debug\net6.0\TipTheNumber.genruntimeconfig.cache
+C:\Users\cabal\source\repos\TipTheNumber\TipTheNumber\obj\Debug\net6.0\ref\TipTheNumber.dll
